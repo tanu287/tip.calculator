@@ -1,0 +1,22 @@
+body{
+  background-color: #cc99ff;
+  font-family: sans-serif;
+}
+
+div{
+  background-color: #c4ff4d;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 10%;
+}
+h4{
+  font-family: cursive;
+  font-size: 20px;
+}
+h1{
+  background-color: black;
+  color: #ff33cc;
+}
